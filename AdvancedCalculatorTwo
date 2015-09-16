@@ -1,0 +1,11 @@
+/*
+ * Project: AdvancedCalculatorTwo.java
+ * Description: An exploration into "while" loops with a calculator.
+ * Author: Seunghoon Park
+ * Date: 16 September, 2015
+ */
+public class AdvancedCalculatorTwo {
+	public static void main(String args[]) {
+		
+	}
+}
